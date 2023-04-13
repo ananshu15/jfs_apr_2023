@@ -7,6 +7,6 @@ public class Greetings {
             username = args[0];
         }
 
-        System.out.println("Hi "+username+",\n\tWelcome to Java World");
+        System.out.println("Hi "+username+",\n\t\"Welcome to Java World\"");
     }
 }
