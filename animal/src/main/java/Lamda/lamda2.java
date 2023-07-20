@@ -8,10 +8,6 @@ public class lamda2 {
         IntPredicate isOdd = (int i) -> i % 2 != 0;
 
         new lamda2().testDemo(12, isEven, isOdd);
-
-
-
-
     }
     void testDemo(int x, IntPredicate isEven, IntPredicate isOdd){
        if(isEven.and(isOdd).test(x)){
