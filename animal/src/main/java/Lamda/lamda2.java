@@ -20,7 +20,7 @@ public class lamda2 {
            System.out.println("Not Even");
        }
        else if(isOdd.negate().test(x)){
-           System.out.println("Not Odd");
+           System.out.println("Is Not Odd");
        }
        else{
            System.out.println("None");
