@@ -11,6 +11,7 @@ public class App {
         listNames.add("Peter");
         listNames.add("Paul");
         listNames.add("Alice");
+
         App app = new App();
         app.printNames();
         System.out.println("******************");
