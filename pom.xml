@@ -10,6 +10,9 @@
     <description>Learning Java from CareerIT</description>
     <modules>
         <module>animal</module>
+        <module>contactBook</module>
+        <module>player-stats</module>
+        <module>ipl-player-stats</module>
     </modules>
     <properties>
         <maven.compiler.source>17</maven.compiler.source>

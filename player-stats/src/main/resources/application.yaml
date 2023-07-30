@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://dpg-ciso2l18g3n42ogtl81g-a.oregon-postgres.render.com:5432/dbuser_wn7r
+    username: dbuser
+    password: 9L1FHL6xWawjN69D7Ho4iDa4DNvciF97
